@@ -1,3 +1,11 @@
+分享一个可以在我的笔记本上可以安装黑群晖7.0.1的引导和安装pat文件
+原博主：https://www.qzkyl.cn/post-600.html
+
+
+
+
+
+
 # Building RedPill loader with Github action
 
 DS918+ & DS3615xs DSM 6.2.4/7.0 loader
